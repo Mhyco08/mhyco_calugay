@@ -21,7 +21,7 @@ header {
 nav ul {
     list-style: none;
     display: flex;
-    justify-content: center;
+    justify-content: right;
 }
 
 nav ul li {
@@ -62,19 +62,10 @@ section img {
     box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
 }
 
-footer {
-    background-color: #f1f1f1;
-    text-align: center;
-    padding: 1em 0;
-    position: fixed;
-    width: 100%;
-    bottom: 0;
-    color: #666;
-}
 h1{
     padding-bottom: 10%;
 }
 hr{
     color: #28282b;
 }
-}
+
